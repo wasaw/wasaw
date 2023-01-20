@@ -1,4 +1,6 @@
-### Hi there 👋
+### Привет! Я Александр. 👋
+
+- 🔭 Сейчас я изучаю Swift.
 
 <!--
 **wasaw/wasaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
